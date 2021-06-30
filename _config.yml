@@ -1,6 +1,6 @@
 # Site settings
 title: Harry Whelchel
-description: I help coaches and consultants get more sales with Proof Posting.
+description: I help everyday people become highly paid artists and live lives of freedom.
 lang: en-US
 timezone: America/New_York
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -10,7 +10,7 @@ mode: light # default theme "dark" | "light"
 # Profile settings
 author:
   name: Harry Whelchel
-  bio: I help coaches and consultants get more sales with Proof Posting.
+  bio: I help everyday people become highly paid artists and live lives of freedom.
   username: Harry Whelchel
   email: hello@usevouch.com
   avatar: /assets/img/avatar.jpg
