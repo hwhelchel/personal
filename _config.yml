@@ -10,9 +10,8 @@ mode: light # default theme "dark" | "light"
 # Profile settings
 author:
   name: Harry Whelchel
-  bio: I help businesses grow with sales and marketing that works.
+  bio: I help businesses grow with sales and marketing.
   username: Harry Whelchel
-  email: hello@usevouch.com
   avatar: /assets/img/avatar.jpg
 
 # Url settings
