@@ -235,4 +235,46 @@ body[data-theme="dark"] {
       color: $dark-text-link-blue-active;
     }
   }
+
+  // Form styles
+  .page-content {
+    label {
+      color: $dark-white;
+    }
+
+    input[type="text"],
+    input[type="email"],
+    textarea {
+      background-color: $dark-light;
+      color: $dark-text-base-color;
+      border-color: $dark-light;
+
+      &:focus {
+        outline-color: rgba(255, 82, 119, 0.6);
+        border-color: $dark-text-link-blue;
+      }
+    }
+
+    button[type="submit"] {
+      background-color: $dark-text-link-blue;
+
+      &:hover {
+        background-color: $dark-text-link-blue-active;
+      }
+    }
+
+    .form-message {
+      &.success {
+        background-color: rgba(212, 237, 218, 0.2);
+        color: #90ee90;
+        border-color: rgba(195, 230, 203, 0.3);
+      }
+
+      &.error {
+        background-color: rgba(248, 215, 218, 0.2);
+        color: #ff6b6b;
+        border-color: rgba(245, 198, 203, 0.3);
+      }
+    }
+  }
 }

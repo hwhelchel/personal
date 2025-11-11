@@ -13,31 +13,31 @@ Ready to grow revenue efficiently? Let's talk about what's actually working in s
 
 Tell me about your business and what you're trying to achieve. I'll respond within 24-48 hours.
 
-<form name="contact" id="contact-form" method="POST" netlify netlify-honeypot="bot-field" style="max-width: 600px; margin: 30px 0;">
+<form name="contact" id="contact-form" method="POST" netlify netlify-honeypot="bot-field">
   <input type="hidden" name="form-name" value="contact" />
   <p style="display: none;">
     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
   </p>
   
-  <div id="form-message" style="display: none; margin-bottom: 20px; padding: 16px 20px; border-radius: 2px; font-size: 16px; font-family: Roboto, sans-serif; line-height: 1.6;"></div>
+  <div id="form-message" class="form-message"></div>
   
-  <p style="margin-bottom: 20px;">
-    <label for="name" style="display: block; margin-bottom: 5px; font-weight: 700; color: #0d122b;">Name *</label>
-    <input type="text" id="name" name="name" required style="width: 100%; padding: 10px; border: 1px solid #ececec; border-radius: 2px; font-size: 16px; font-family: Roboto, sans-serif; box-sizing: border-box;" />
-  </p>
-  
-  <p style="margin-bottom: 20px;">
-    <label for="email" style="display: block; margin-bottom: 5px; font-weight: 700; color: #0d122b;">Email *</label>
-    <input type="email" id="email" name="email" required style="width: 100%; padding: 10px; border: 1px solid #ececec; border-radius: 2px; font-size: 16px; font-family: Roboto, sans-serif; box-sizing: border-box;" />
-  </p>
-  
-  <p style="margin-bottom: 20px;">
-    <label for="message" style="display: block; margin-bottom: 5px; font-weight: 700; color: #0d122b;">Message *</label>
-    <textarea id="message" name="message" required rows="6" style="width: 100%; padding: 10px; border: 1px solid #ececec; border-radius: 2px; font-size: 16px; font-family: Roboto, sans-serif; box-sizing: border-box; resize: vertical;"></textarea>
+  <p>
+    <label for="name">Name *</label>
+    <input type="text" id="name" name="name" required />
   </p>
   
   <p>
-    <button type="submit" id="submit-button" style="background-color: #4a90e2; color: white; border: none; padding: 12px 24px; border-radius: 2px; font-size: 16px; font-weight: 700; font-family: Roboto, sans-serif; cursor: pointer;">Send Message</button>
+    <label for="email">Email *</label>
+    <input type="email" id="email" name="email" required />
+  </p>
+  
+  <p>
+    <label for="message">Message *</label>
+    <textarea id="message" name="message" required rows="6"></textarea>
+  </p>
+  
+  <p>
+    <button type="submit" id="submit-button">Send Message</button>
   </p>
 </form>
 

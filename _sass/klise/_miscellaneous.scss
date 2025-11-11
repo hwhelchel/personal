@@ -28,3 +28,94 @@
     position: absolute;
   }
 }
+
+// Contact form styles
+.page-content {
+  form {
+    max-width: 600px;
+    margin: 30px 0;
+
+    p {
+      margin-bottom: 20px;
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: $bold-weight;
+    color: $black;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid $light;
+    border-radius: 2px;
+    font-size: $base-font-size;
+    font-family: $sans-family;
+    box-sizing: border-box;
+    background-color: $white;
+    color: $text-base-color;
+
+    &:focus {
+      outline: 3px solid rgba(74, 144, 226, 0.6);
+      outline-offset: 2px;
+      border-color: $text-link-blue;
+    }
+  }
+
+  textarea {
+    resize: vertical;
+  }
+
+  button[type="submit"] {
+    background-color: $text-link-blue;
+    color: $white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 2px;
+    font-size: $base-font-size;
+    font-weight: $bold-weight;
+    font-family: $sans-family;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      background-color: $text-link-blue-active;
+    }
+
+    &:disabled {
+      opacity: 0.7;
+      cursor: not-allowed;
+    }
+  }
+
+  .form-message {
+    display: none;
+    margin-bottom: 20px;
+    padding: 16px 20px;
+    border-radius: 2px;
+    font-size: $base-font-size;
+    font-family: $sans-family;
+    line-height: 1.6;
+
+    &.success {
+      background-color: #d4edda;
+      color: #155724;
+      border: 1px solid #c3e6cb;
+    }
+
+    &.error {
+      background-color: #f8d7da;
+      color: #721c24;
+      border: 1px solid #f5c6cb;
+    }
+  }
+}

@@ -48,6 +48,7 @@
       // Hide any previous messages
       messageElement.style.display = "none";
       messageElement.textContent = "";
+      messageElement.className = "form-message";
 
       // Show loading state
       submitButton.disabled = true;
@@ -65,11 +66,7 @@
         if (response.ok) {
           // Success
           messageElement.style.display = "block";
-          messageElement.style.backgroundColor = "#d4edda";
-          messageElement.style.color = "#155724";
-          messageElement.style.border = "1px solid #c3e6cb";
-          messageElement.style.padding = "16px 20px";
-          messageElement.style.lineHeight = "1.6";
+          messageElement.className = "form-message success";
           messageElement.innerHTML = "Thank you!<br>Your message has been sent successfully. I'll respond within 24-48 hours.";
           
           // Reset form
@@ -84,11 +81,7 @@
       } catch (error) {
         // Show error message
         messageElement.style.display = "block";
-        messageElement.style.backgroundColor = "#f8d7da";
-        messageElement.style.color = "#721c24";
-        messageElement.style.border = "1px solid #f5c6cb";
-        messageElement.style.padding = "16px 20px";
-        messageElement.style.lineHeight = "1.6";
+        messageElement.className = "form-message error";
         messageElement.innerHTML = "Oops!<br>There was a problem submitting your form. Please try again.";
         
         // Scroll to message
