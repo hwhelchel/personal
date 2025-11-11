@@ -146,7 +146,7 @@
     sizes="96x96"
     href="{{ '/assets/favicons/favicon-96x96.png' | absolute_url }}"
   />
-  <link rel="manifest" href="{{ '/assets/favicons/site.webmanifest' | absolute_url }}" />
+  <link rel="manifest" href="/assets/favicons/site.webmanifest" />
   <meta name="apple-mobile-web-app-title" content="{{ site.title }}" />
   <meta name="application-name" content="{{ site.title }}" />
   <meta name="msapplication-TileColor" content="#da532c" />
@@ -287,9 +287,33 @@
       var theme = localStorage.getItem("theme");
       if (theme === "dark") {
         document.documentElement.setAttribute("data-theme", "dark");
+        // Set background color immediately via inline style to prevent flash
+        document.documentElement.style.backgroundColor = "#131418";
+        // Also set on body when it's available (will be applied immediately when body renders)
+        if (document.body) {
+          document.body.style.backgroundColor = "#131418";
+        } else {
+          // If body not yet available, set it when DOMContentLoaded fires
+          document.addEventListener("DOMContentLoaded", function() {
+            document.body.style.backgroundColor = "#131418";
+          });
+        }
       } else if (theme === "light") {
         document.documentElement.removeAttribute("data-theme");
+        document.documentElement.style.backgroundColor = "";
+        if (document.body) {
+          document.body.style.backgroundColor = "";
+        }
       }
     })();
   </script>
+  <style>
+    /* Ensure html and body background matches theme immediately */
+    html[data-theme="dark"] {
+      background-color: #131418 !important;
+    }
+    html[data-theme="dark"] body {
+      background-color: #131418 !important;
+    }
+  </style>
 </head>
