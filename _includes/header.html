@@ -154,12 +154,26 @@
 
   <!-- Set dark background immediately before any content renders -->
   <style>
-    /* Set dark background on html immediately if dark mode is stored */
+    /* Default to system preference, then override based on data-theme */
+    @media (prefers-color-scheme: dark) {
+      html:not([data-theme="light"]) {
+        background-color: #131418;
+      }
+    }
+    @media (prefers-color-scheme: light) {
+      html:not([data-theme="dark"]) {
+        background-color: #fff;
+      }
+    }
+    /* Fallback for browsers that don't support prefers-color-scheme */
     html {
+      background-color: #fff;
+    }
+    /* Explicit theme overrides (take precedence over system preference) */
+    html[data-theme="dark"] {
       background-color: #131418;
     }
-    /* Override to white if light mode or no theme preference */
-    html:not([data-theme="dark"]) {
+    html[data-theme="light"] {
       background-color: #fff;
     }
   </style>
@@ -295,6 +309,6 @@
 
   <!-- Apply theme synchronously to prevent flash on initial page load -->
   <script>
-    !function(){var t=localStorage.getItem("theme");if("dark"===t){document.documentElement.setAttribute("data-theme","dark"),document.documentElement.style.backgroundColor="#131418";}else if("light"===t){document.documentElement.removeAttribute("data-theme"),document.documentElement.style.backgroundColor="#fff";}else{document.documentElement.style.backgroundColor="#fff";}}();
+    !function(){var t=localStorage.getItem("theme"),s=window.matchMedia("(prefers-color-scheme: dark)").matches;if("dark"===t){document.documentElement.setAttribute("data-theme","dark"),document.documentElement.style.backgroundColor="#131418";}else if("light"===t){document.documentElement.removeAttribute("data-theme"),document.documentElement.style.backgroundColor="#fff";}else{if(s){document.documentElement.setAttribute("data-theme","dark"),document.documentElement.style.backgroundColor="#131418";}else{document.documentElement.style.backgroundColor="#fff";}}}();
   </script>
 </head>
