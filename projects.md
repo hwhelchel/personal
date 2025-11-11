@@ -119,4 +119,4 @@ To reach these artists, I invested **$500K in targeted advertising** across vari
 
 ---
 
-Ready to discuss how these strategies can work for your business? [Get in touch](/contact/). You can also learn more [about Harry Whelchel](/about/) or visit the [homepage](/).
+Ready to discuss how these strategies can work for your business? [Get in touch](/contact/). You can also learn more [about me](/about/) or visit the [homepage](/).

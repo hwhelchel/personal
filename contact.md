@@ -59,4 +59,4 @@ I'll respond within 24-48 hours. If we're a good fit, I'll share how I can help.
 
 ---
 
-Learn more [about Harry Whelchel](/about/), check out some [case studies](/projects/), or visit the [homepage](/).
+Learn more [about me](/about/), check out some [case studies](/projects/), or visit the [homepage](/).

@@ -3,7 +3,7 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% assign pages = site.pages | where: "layout", "page" | where_exp: "page", "page.permalink != '/notes/' and page.permalink != '/tags/' and page.permalink != '/thanks/'" %}
+  {% assign pages = site.pages | where: "layout", "page" | where_exp: "page", "page.permalink != '/notes/' and page.permalink != '/tags/'" %}
   {% assign homepage = site.pages | where: "layout", "home" | first %}
   
   <!-- Homepage -->
