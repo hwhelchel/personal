@@ -10,15 +10,15 @@ I've spent the last 12 years figuring out what actually works in sales and marke
 
 ## How I Got Here
 
-I started in paid search at RKG, managing campaigns for Fortune 500 brands like Bed Bath & Beyond. That's where I learned to think in data and optimization.
+I studied Economics and Religious Studies at the University of Virginia—a combination that taught me to think in data and understand different perspectives.
 
-After going to coding bootcamp and working as a software engineer at SalesLoft, I realized I wanted to focus on the business side—specifically sales and marketing. I started consulting for tech startups, then pivoted to working with solopreneurs during the pandemic.
+I started in paid search at RKG, managing campaigns for Fortune 500 brands like Bed Bath & Beyond. After going to coding bootcamp, I worked as a software engineer at SalesLoft, where I was their first junior engineer. That experience gave me insight into how B2B SaaS products work, but I realized I wanted to focus on the business side—specifically sales and marketing.
 
-That's when I noticed something interesting: a lot of my successful clients were visual artists who struggled to sell their work. So I launched Unstarving Artists to teach them sales and marketing. Over three years, I worked with 400+ artists, developed a 32-hour training program, spent $500K on advertising, and generated $1.1M in revenue before selling the business.
+I started consulting for tech startups, then pivoted to working with solopreneurs during the pandemic. That's when I noticed something interesting: a lot of my successful clients were visual artists who struggled to sell their work. So I launched Unstarving Artists to teach them sales and marketing, working with 400+ artists and generating $1.1M in revenue before selling the business.
 
-After that, I joined Teleport as Head of Brand Communications. I ran their marketing for the Austin launch, getting cost per acquisition down to $3 by testing hundreds of video creatives across Google, Facebook, TikTok, X, and Snapchat simultaneously. I also led a guerrilla marketing campaign at Consensus 2024 that drove hundreds of completed rides.
+After that, I joined Teleport as Head of Brand Communications, running their marketing for the Austin launch and getting cost per acquisition down to $3 through relentless testing across multiple channels.
 
-Now I'm building Sing with the Stars, an interactive Broadway experience in NYC. It's been interesting applying B2B marketing principles to live entertainment—building community, creating memorable experiences, and driving word-of-mouth growth. We've got a 4.7/5 rating from 200+ guests so far.
+Now I'm building Sing with the Stars, an interactive Broadway experience in NYC, applying B2B marketing principles to live entertainment.
 
 ## What I've Learned
 

@@ -21,13 +21,18 @@ The biggest difference from B2B marketing? You can't A/B test a show. But you ca
 - Built an engaged community of music lovers and Broadway fans
 - Successfully launched and grew a unique entertainment experience in NYC
 
+**What Guests Are Saying:**
+- "The vibe was 10/10. Everyone sang beautifully. I will be back soon." — Cindy, Manhattan
+- "Conquered a long-held fear of singing thanks to the supportive environment." — Manuela, NY
+- "Unique, a blast. A must-do for any theatre lover or karaoke fan." — Corey, Upstate
+
 **My Takeaway:** In entertainment, the product *is* the marketing. Creating an exceptional, shareable experience is the most powerful way to build an audience and drive growth.
 
 ## Teleport (2023 - 2024)
 
 **The Challenge:** Teleport needed to launch its service in Austin with a limited budget, demanding highly efficient customer acquisition and exceptional cost-per-acquisition (CPA) metrics.
 
-**My Approach:** As Head of Brand Communications, I orchestrated a multi-channel marketing blitz. I scaled ad spend across Google, Facebook, TikTok, X, and Snapchat simultaneously. To maximize impact, I used AI tools like Arcads to rapidly script, produce, and test hundreds of short-form video creatives, all meticulously tailored to the Austin market.
+**My Approach:** I met Teleport's founder at the Network State Conference in 2023 and joined the team shortly after. As Head of Brand Communications, I orchestrated a multi-channel marketing blitz. I scaled ad spend across Google, Facebook, TikTok, X, and Snapchat simultaneously. To maximize impact, I used AI tools like Arcads to rapidly script, produce, and test hundreds of short-form video creatives, all meticulously tailored to the Austin market.
 
 Beyond paid ads, I also led a guerrilla marketing campaign at Consensus 2024, which generated significant buzz and hundreds of completed rides.
 
@@ -66,7 +71,7 @@ To reach these artists, I invested **$500K in targeted advertising** across vari
 
 **My Takeaway:** Consulting can scale rapidly when you have proven methodologies and a clear understanding of your target market's needs. Focusing on tangible results builds trust and a strong referral network.
 
-## ChirpyHire (2014 - 2019)
+## ChirpyHire (2016 - 2019)
 
 **The Challenge:** Marketing a new SaaS platform for recruiting Certified Nursing Assistants (CNAs) to healthcare facilities with a limited marketing budget.
 
@@ -77,6 +82,20 @@ To reach these artists, I invested **$500K in targeted advertising** across vari
 - Successfully sold the business to a team of engineers in Seattle
 
 **My Takeaway:** For SaaS, the product itself is a powerful marketing tool. When your product solves a clear problem and delivers immediate value, customer acquisition becomes much more efficient.
+
+## SalesLoft (2014 - 2016)
+
+**The Challenge:** Joining SalesLoft as their first junior engineer meant building foundational systems for an early-stage B2B SaaS company while learning how to scale both product and marketing.
+
+**My Approach:** I contributed significantly to SalesLoft's platform, designing reporting dashboards, building an in-app folder system for email templates, and developing a real-time Salesforce export service. I also wrote a FullContact API proxy service and created a code review leaderboard to promote team collaboration. This technical experience gave me deep insight into how B2B SaaS products work and how to market them effectively.
+
+**The Results:**
+- Built foundational systems as **first junior engineer** at early-stage SaaS company
+- Designed **reporting dashboards** that became core to the product
+- Created **real-time Salesforce integrations** that improved user workflow
+- Developed tools that promoted **team collaboration** and code quality
+
+**My Takeaway:** Technical skills enable better marketing of tech companies. Understanding how products work—from database architecture to API integrations—makes it easier to explain their value to customers and create marketing that resonates with technical buyers.
 
 ## RKG | Rimm-Kaufman Group (2012 - 2014)
 

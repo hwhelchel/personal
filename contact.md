@@ -6,9 +6,11 @@ permalink: /contact/
 layout: page
 ---
 
-If you're looking to improve your sales process, launch campaigns that convert, or scale your business, let's talk.
+Ready to grow revenue without burning through cash? Let's talk about what's actually working in sales and marketing.
 
 ## Send a Message
+
+Tell me about your business and what you're trying to achieve. I'll respond within 24-48 hours.
 
 <form name="contact" netlify netlify-honeypot="bot-field" style="max-width: 600px; margin: 30px 0;">
   <input type="hidden" name="form-name" value="contact" />
@@ -32,7 +34,7 @@ If you're looking to improve your sales process, launch campaigns that convert, 
   </p>
   
   <p>
-    <button type="submit" style="background-color: #003fff; color: white; border: none; padding: 12px 24px; border-radius: 2px; font-size: 16px; font-weight: 700; font-family: Roboto, sans-serif; cursor: pointer;">Send Message</button>
+    <button type="submit" style="background-color: #4a90e2; color: white; border: none; padding: 12px 24px; border-radius: 2px; font-size: 16px; font-weight: 700; font-family: Roboto, sans-serif; cursor: pointer;">Send Message</button>
   </p>
 </form>
 
@@ -44,23 +46,14 @@ Feel free to connect on LinkedIn. I'm more active there than other social platfo
 
 ## What I Help With
 
-I work with businesses on:
-
-- **Sales Strategy & Training** - Building sales processes that work and training teams to execute them
-- **Marketing Campaigns** - Running campaigns across Google, Facebook, TikTok, X, and Snapchat that actually convert
-- **CRO** - Optimizing conversion rates and reducing customer acquisition costs
-- **Growth Marketing** - Scaling businesses efficiently without burning through cash
-- **Pricing Strategy** - Optimizing pricing to maximize revenue
-- **Speaking** - I speak on sales, marketing, and entrepreneurship topics
+I work with businesses on sales strategy, marketing campaigns that convert, and growth marketing. I've helped 400+ clients improve their sales and marketing, generated $1.1M+ in revenue, and managed $500K in ad spend.
 
 I've worked with tech startups, SaaS companies, e-commerce brands, professional services firms, healthcare companies, creative industries, and entertainment businesses. If you're trying to grow revenue and scale efficiently, we might be a good fit.
 
 ## What to Expect
 
-I typically respond within 24-48 hours. If you're reaching out about consulting, I'll want to understand your business, what you're trying to achieve, and whether I can actually help. I'm pretty direct about whether something is a good fit or not—saves everyone time.
+I'll respond within 24-48 hours. If we're a good fit, I'll share how I can help. If not, I'll point you in the right direction.
 
 ---
 
 Learn more [about me](/about/), check out some [case studies](/projects/), or visit the [homepage](/).
-
-*Based in New York. Available for consulting, speaking, and the occasional marketing campaign.*
