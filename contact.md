@@ -13,11 +13,13 @@ Ready to grow revenue without burning through cash? Let's talk about what's actu
 
 Tell me about your business and what you're trying to achieve. I'll respond within 24-48 hours.
 
-<form name="contact" netlify netlify-honeypot="bot-field" style="max-width: 600px; margin: 30px 0;">
+<form name="contact" id="contact-form" method="POST" netlify netlify-honeypot="bot-field" style="max-width: 600px; margin: 30px 0;">
   <input type="hidden" name="form-name" value="contact" />
   <p style="display: none;">
     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
   </p>
+  
+  <div id="form-message" style="display: none; margin-bottom: 20px; padding: 12px; border-radius: 2px; font-size: 16px; font-family: Roboto, sans-serif;"></div>
   
   <p style="margin-bottom: 20px;">
     <label for="name" style="display: block; margin-bottom: 5px; font-weight: 700; color: #0d122b;">Name *</label>
@@ -35,7 +37,7 @@ Tell me about your business and what you're trying to achieve. I'll respond with
   </p>
   
   <p>
-    <button type="submit" style="background-color: #4a90e2; color: white; border: none; padding: 12px 24px; border-radius: 2px; font-size: 16px; font-weight: 700; font-family: Roboto, sans-serif; cursor: pointer;">Send Message</button>
+    <button type="submit" id="submit-button" style="background-color: #4a90e2; color: white; border: none; padding: 12px 24px; border-radius: 2px; font-size: 16px; font-weight: 700; font-family: Roboto, sans-serif; cursor: pointer;">Send Message</button>
   </p>
 </form>
 
