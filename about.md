@@ -21,6 +21,11 @@ After that, I joined Teleport as Head of Brand Communications, running their mar
 
 Now I'm building Sing with the Stars, an interactive Broadway experience in NYC, applying B2B marketing principles to live entertainment.
 
+**Press Coverage:**
+- <a href="https://www.fox5ny.com/news/nyc-karaoke-bar-night-broadway-stars-sing" target="_blank" rel="noopener noreferrer">Broadway Stars Karaoke NYC</a> — Fox 5 NY
+- <a href="https://gothamist.com/arts-entertainment/a-new-karaoke-series-on-the-les-lets-you-belt-out-show-tunes-with-broadway-performers" target="_blank" rel="noopener noreferrer">Broadway Karaoke Series LES</a> — Gothamist
+- <a href="https://www.broadwayworld.com/article/KARAOKE-WITH-BROADWAY-STARS-Comes-To-Baby-Grand-LES-On-Mondays-20250313" target="_blank" rel="noopener noreferrer">Karaoke with Broadway Stars</a> — Broadway World
+
 ## What I've Learned
 
 **Sales is about relationships, not transactions**—I've taught hundreds of people to sell, and the ones who succeed focus on understanding what people need and helping them get it.

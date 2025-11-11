@@ -27,6 +27,11 @@ The biggest difference from B2B marketing? You can't A/B test a show. But you ca
 - "Conquered a long-held fear of singing thanks to the supportive environment." — Manuela, NY
 - "Unique, a blast. A must-do for any theatre lover or karaoke fan." — Corey, Upstate
 
+**Press Coverage:**
+- <a href="https://www.fox5ny.com/news/nyc-karaoke-bar-night-broadway-stars-sing" target="_blank" rel="noopener noreferrer">Broadway Stars Karaoke NYC</a> — Fox 5 NY
+- <a href="https://gothamist.com/arts-entertainment/a-new-karaoke-series-on-the-les-lets-you-belt-out-show-tunes-with-broadway-performers" target="_blank" rel="noopener noreferrer">Broadway Karaoke Series LES</a> — Gothamist
+- <a href="https://www.broadwayworld.com/article/KARAOKE-WITH-BROADWAY-STARS-Comes-To-Baby-Grand-LES-On-Mondays-20250313" target="_blank" rel="noopener noreferrer">Karaoke with Broadway Stars</a> — Broadway World
+
 **My Takeaway:** In entertainment, the product *is* the marketing. Creating an exceptional, shareable experience is the most powerful way to build an audience and drive growth.
 
 ## Teleport (2023 - 2024)
