@@ -152,6 +152,18 @@
   <meta name="msapplication-TileColor" content="#da532c" />
   <meta name="theme-color" content="#2c2c2c" />
 
+  <!-- Set dark background immediately before any content renders -->
+  <style>
+    /* Set dark background on html immediately if dark mode is stored */
+    html {
+      background-color: #131418;
+    }
+    /* Override to white if light mode or no theme preference */
+    html:not([data-theme="dark"]) {
+      background-color: #fff;
+    }
+  </style>
+
   <!-- Preconnect to Google Fonts for faster font loading -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
@@ -281,39 +293,8 @@
   }
   </script>
 
-  <!-- Apply theme synchronously to prevent flash -->
+  <!-- Apply theme synchronously to prevent flash on initial page load -->
   <script>
-    (function() {
-      var theme = localStorage.getItem("theme");
-      if (theme === "dark") {
-        document.documentElement.setAttribute("data-theme", "dark");
-        // Set background color immediately via inline style to prevent flash
-        document.documentElement.style.backgroundColor = "#131418";
-        // Also set on body when it's available (will be applied immediately when body renders)
-        if (document.body) {
-          document.body.style.backgroundColor = "#131418";
-        } else {
-          // If body not yet available, set it when DOMContentLoaded fires
-          document.addEventListener("DOMContentLoaded", function() {
-            document.body.style.backgroundColor = "#131418";
-          });
-        }
-      } else if (theme === "light") {
-        document.documentElement.removeAttribute("data-theme");
-        document.documentElement.style.backgroundColor = "";
-        if (document.body) {
-          document.body.style.backgroundColor = "";
-        }
-      }
-    })();
+    !function(){var t=localStorage.getItem("theme");if("dark"===t){document.documentElement.setAttribute("data-theme","dark"),document.documentElement.style.backgroundColor="#131418";}else if("light"===t){document.documentElement.removeAttribute("data-theme"),document.documentElement.style.backgroundColor="#fff";}else{document.documentElement.style.backgroundColor="#fff";}}();
   </script>
-  <style>
-    /* Ensure html and body background matches theme immediately */
-    html[data-theme="dark"] {
-      background-color: #131418 !important;
-    }
-    html[data-theme="dark"] body {
-      background-color: #131418 !important;
-    }
-  </style>
 </head>
