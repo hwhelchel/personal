@@ -1,0 +1,51 @@
+# Harry Whelchel
+
+> Sales & Marketing Consultant based in New York. 12 years of experience helping businesses grow through sales strategy and marketing that actually works. Generated $1.1M in revenue, managed $500K in ad spend, and served 400+ clients across tech startups, SaaS companies, e-commerce brands, and more.
+
+This site provides information about Harry Whelchel's professional services, case studies, and current projects. The site is organized into main pages covering his background, detailed case studies, and contact information. Currently building Sing with the Stars, an interactive Broadway experience in New York City.
+
+## Main Pages
+
+- [Home](https://harrywhelchel.com/) : Overview of services, expertise, and current work
+- [About](https://harrywhelchel.com/about/) : Professional background and journey
+- [Case Studies](https://harrywhelchel.com/projects/) : Detailed project case studies with results
+- [Contact](https://harrywhelchel.com/contact/) : Ways to connect for consulting and speaking
+
+## Services & Expertise
+
+- Sales Strategy & Training : Building sales processes that work and training teams to execute them. Developed a 32-hour sales training program and taught 400+ people to sell.
+- Marketing Consulting & Campaign Management : Running campaigns across multiple channels, testing what works, and scaling what converts. Managed campaigns across Google, Facebook, TikTok, X, and Snapchat simultaneously.
+- Conversion Rate Optimization (CRO) : Identifying what's broken, testing fixes, and optimizing for better results. Achieved $3 CPA for mobile app installs at Teleport.
+- Growth Marketing : Scaling businesses efficiently and sustainably. Scaled businesses from startup to $1M+ revenue.
+- Online Advertising : Managing ad campaigns across Google Ads, Facebook Ads, TikTok Ads, X (Twitter), Snapchat, and tools like Arcads for creative production. Spent $500K on advertising.
+- Lead Generation : Generating leads that actually convert. Generated leads for 70+ clients across tech startups, solopreneurs, and B2B companies.
+- Pricing Strategy : Optimizing pricing models to maximize revenue without losing customers. Contributed significantly to revenue growth, including a $90K best month in consulting.
+
+## Key Projects
+
+- [Sing with the Stars](https://harrywhelchel.com/projects/) (2025 - Present) : Interactive Broadway experience in NYC where audiences sing alongside performers from shows like Hamilton, Wicked, and The Book of Mormon. 4.7/5 rating from 200+ guests.
+- [Teleport](https://harrywhelchel.com/projects/) (2023 - 2024) : Head of Brand Communications, ran marketing for Austin launch. Achieved $3 cost per acquisition for mobile app installs through multi-channel campaigns and guerrilla marketing at Consensus 2024.
+- [Unstarving Artists](https://harrywhelchel.com/projects/) (2021 - 2024) : Sales training business for visual artists. Served 400+ artists, generated $1.1M in revenue, invested $500K in advertising. Successfully sold on Acquire.com.
+- [Sales Consulting Practice](https://harrywhelchel.com/projects/) (2019 - 2021) : Consulting for bootstrapped solopreneurs and small businesses. Onboarded 70+ clients, achieved $90K best month in sales.
+- [ChirpyHire](https://harrywhelchel.com/projects/) (2016 - 2019) : SaaS platform for recruiting Certified Nursing Assistants (CNAs) to healthcare facilities. Served 30+ clients before successful exit.
+- [SalesLoft](https://harrywhelchel.com/projects/) (2014 - 2016) : First junior engineer at early-stage B2B SaaS company. Built foundational systems including reporting dashboards, Salesforce integrations, and team collaboration tools.
+- [RKG | Rimm-Kaufman Group](https://harrywhelchel.com/projects/) (2012 - 2014) : Managed paid search campaigns for Fortune 500 brands like Bed Bath & Beyond. Learned SQL, direct response marketing, and large-scale campaign management.
+
+## Social Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/harrywhelchel) : Professional network and updates
+- [Instagram](https://www.instagram.com/harrywhelchel/) : Personal and professional updates
+- [X (Twitter)](https://x.com/howdyitsharry) : @howdyitsharry
+
+## Key Metrics & Achievements
+
+- Generated $1.1M in revenue across own businesses
+- Managed $500K in ad spend across multiple channels
+- Served 400+ clients over 12 years
+- Achieved $3 cost per acquisition at Teleport for mobile app installs
+- Best consulting month: $90K in sales
+- 4.7/5 rating for Sing with the Stars from 200+ guests
+- Successfully sold Unstarving Artists on Acquire.com
+- First junior engineer at SalesLoft, built foundational systems
+- Managed paid search campaigns for Fortune 500 brands at RKG
+

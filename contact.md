@@ -7,7 +7,7 @@ layout: page
 lastModified: 2025-01-11
 ---
 
-Ready to grow revenue without burning through cash? Let's talk about what's actually working in sales and marketing.
+Ready to grow revenue efficiently? Let's talk about what's actually working in sales and marketing.
 
 ## Send a Message
 

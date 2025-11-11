@@ -16,7 +16,7 @@ Right now, I'm building **Sing with the Stars**—an interactive Broadway experi
 
 ## What I Do
 
-I focus on the stuff that moves the needle: sales strategy, marketing campaigns that convert, and helping businesses scale without burning through cash.
+I focus on the stuff that moves the needle: sales strategy, marketing campaigns that convert, and helping businesses scale efficiently.
 
 **Sales Strategy & Training** - Most businesses have a sales problem, not a marketing problem. They're getting leads but not closing them, or their sales team isn't performing. I help build sales processes that actually work and train teams to execute them. I've developed a 32-hour sales training program, taught 400+ people to sell, and helped clients generate $90K in a single month. The key is focusing on relationships, not transactions, and giving people a framework they can actually use.
 
@@ -24,7 +24,7 @@ I focus on the stuff that moves the needle: sales strategy, marketing campaigns 
 
 **Conversion Rate Optimization** - Most businesses are leaving money on the table because their conversion rates are too low. I help identify what's broken, test fixes, and optimize for better results. At Teleport, we got mobile app installs down to $3 CPA through relentless testing and optimization.
 
-**Growth Marketing** - I help businesses scale efficiently—growing revenue without burning through cash on ads that don't work. This usually means building systems that can scale, not just running one-off campaigns. I've scaled businesses from startup to $1M+ revenue and generated $1.1M in revenue over three years with Unstarving Artists.
+**Growth Marketing** - I help businesses scale efficiently—growing revenue by focusing on ads that convert. This usually means building systems that can scale, not just running one-off campaigns. I've scaled businesses from startup to $1M+ revenue and generated $1.1M in revenue over three years with Unstarving Artists.
 
 **Online Advertising** - I manage ad campaigns across Google, Facebook, TikTok, X, and Snapchat. I've spent $500K on advertising and learned what actually works—which is usually different from what the platforms tell you. The platforms I work with include Google Ads, Facebook Ads, TikTok Ads, X (Twitter), Snapchat, and tools like Arcads for creative production.
 
@@ -48,7 +48,7 @@ I focus on results, not theory. Every engagement starts with understanding your 
 
 I've worked with tech startups, SaaS companies, e-commerce brands, professional services firms, healthcare companies, creative industries, and now entertainment businesses. The common thread? They all needed to grow revenue and scale efficiently.
 
-If you're looking to improve your sales process, launch marketing campaigns that convert, or scale your business without wasting money on ads that don't work, [let's talk](/contact/).
+If you're looking to improve your sales process, launch marketing campaigns that convert, or scale your business efficiently with marketing that converts, [let's talk](/contact/).
 
 ---
 
