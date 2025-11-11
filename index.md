@@ -3,6 +3,7 @@ title: Harry Whelchel | Sales & Marketing Consultant
 h1: Harry Whelchel
 description: Harry Whelchel is a sales & marketing consultant based in New York. Generated $1.1M revenue, managed $500K ad spend, served 400+ clients. Sales strategy, marketing consulting, CRO expert.
 layout: home
+lastModified: 2025-01-11
 ---
 
 # Harry Whelchel
@@ -51,6 +52,6 @@ If you're looking to improve your sales process, launch marketing campaigns that
 
 ---
 
-Learn more about [my background](/about/), check out [some case studies](/projects/), or [get in touch](/contact/).
+Learn more about [Harry Whelchel's background](/about/), check out [some case studies](/projects/), or [get in touch](/contact/).
 
 *Based in New York. Available for consulting, speaking, and the occasional marketing campaign.*

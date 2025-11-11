@@ -177,7 +177,13 @@
       "@type": "PostalAddress",
       "addressLocality": "New York",
       "addressRegion": "NY",
-      "addressCountry": "US"
+      "addressCountry": "US",
+      "postalCode": "10001"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "40.7128",
+      "longitude": "-74.0060"
     },
     "sameAs": [
       "https://www.linkedin.com/in/harrywhelchel/",
@@ -201,6 +207,78 @@
     "worksFor": {
       "@type": "Organization",
       "name": "Sing with the Stars"
+    }
+  }
+  </script>
+
+  <!-- Author Schema for Pages -->
+  {% unless page.layout == 'home' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "{{ page.title | escape }}",
+    "description": "{{ page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 | escape }}",
+    "url": "{{ page.url | remove: 'index.html' | remove: '.html' | absolute_url }}",
+    "author": {
+      "@type": "Person",
+      "name": "Harry Whelchel",
+      "jobTitle": "Sales & Marketing Consultant",
+      "url": "{{ site.url }}"
+    },
+    "dateModified": "{% if page.lastModified %}{{ page.lastModified }}{% else %}{{ site.time | date: '%Y-%m-%d' }}{% endif %}"
+  }
+  </script>
+  {% endunless %}
+
+  <!-- Breadcrumb Schema -->
+  {% unless page.layout == 'home' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ site.url }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "{{ page.h1 | default: page.title | escape }}",
+        "item": "{{ page.url | remove: 'index.html' | remove: '.html' | absolute_url }}"
+      }
+    ]
+  }
+  </script>
+  {% endunless %}
+
+  <!-- Organization Schema for Sing with the Stars -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Sing with the Stars",
+    "description": "An interactive Broadway experience in New York City where audiences sing alongside performers from shows like Hamilton, Wicked, and The Book of Mormon.",
+    "url": "{{ site.url }}/projects/",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "New York",
+      "addressRegion": "NY",
+      "addressCountry": "US"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "200",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "founder": {
+      "@type": "Person",
+      "name": "Harry Whelchel"
     }
   }
   </script>

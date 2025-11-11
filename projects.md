@@ -4,6 +4,7 @@ h1: Case Studies
 description: Sales & marketing case studies by Harry Whelchel. See how sales strategy, marketing consulting, and CRO generated $1.1M revenue, managed $500K ad spend, and served 400+ clients.
 permalink: /projects/
 layout: page
+lastModified: 2025-01-11
 ---
 
 Here are some projects I've worked on and what I learned from them:
@@ -113,4 +114,4 @@ To reach these artists, I invested **$500K in targeted advertising** across vari
 
 ---
 
-Ready to discuss how these strategies can work for your business? [Get in touch](/contact/). You can also learn more [about me](/about/) or visit the [homepage](/).
+Ready to discuss how these strategies can work for your business? [Get in touch](/contact/). You can also learn more [about Harry Whelchel](/about/) or visit the [homepage](/).

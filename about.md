@@ -4,6 +4,7 @@ h1: About
 description: Learn about Harry Whelchel, a sales & marketing consultant based in New York. Generated $1.1M revenue, served 400+ clients, managed $500K ad spend. Sales strategy, marketing consulting, CRO expert.
 permalink: /about/
 layout: page
+lastModified: 2025-01-11
 ---
 
 I've spent the last 12 years figuring out what actually works in sales and marketing—not the theory, but the stuff that moves the needle in real businesses.

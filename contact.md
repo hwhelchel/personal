@@ -4,6 +4,7 @@ h1: Contact
 description: Contact Harry Whelchel for sales & marketing consulting, speaking engagements, or growth marketing projects. Email, LinkedIn, and ways to connect with Harry Whelchel.
 permalink: /contact/
 layout: page
+lastModified: 2025-01-11
 ---
 
 Ready to grow revenue without burning through cash? Let's talk about what's actually working in sales and marketing.
@@ -56,4 +57,4 @@ I'll respond within 24-48 hours. If we're a good fit, I'll share how I can help.
 
 ---
 
-Learn more [about me](/about/), check out some [case studies](/projects/), or visit the [homepage](/).
+Learn more [about Harry Whelchel](/about/), check out some [case studies](/projects/), or visit the [homepage](/).
