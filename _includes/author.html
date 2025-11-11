@@ -1,12 +1,16 @@
 <div class="author">
-  <img
-    class="author-avatar"
-    src="{{ site.author.avatar }}"
-    alt="Harry Whelchel, Sales & Marketing Consultant"
-    width="123"
-    height="123"
-    loading="lazy"
-  />
+  <picture>
+    {% assign avatar_webp = site.author.avatar | replace: '.jpg', '.webp' | replace: '.jpeg', '.webp' %}
+    <source srcset="{{ avatar_webp }}" type="image/webp" />
+    <img
+      class="author-avatar"
+      src="{{ site.author.avatar }}"
+      alt="Harry Whelchel, Sales & Marketing Consultant"
+      width="123"
+      height="123"
+      loading="lazy"
+    />
+  </picture>
   <h2 class="author-name">{{ site.author.name }}</h2>
   <p class="author-bio">{{ site.author.bio }}</p>
 </div>
