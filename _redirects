@@ -1,0 +1,5 @@
+# Force HTTPS redirect
+http://harrywhelchel.com/* https://harrywhelchel.com/:splat 301!
+http://www.harrywhelchel.com/* https://harrywhelchel.com/:splat 301!
+https://www.harrywhelchel.com/* https://harrywhelchel.com/:splat 301!
+

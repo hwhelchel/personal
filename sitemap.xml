@@ -1,0 +1,50 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% assign pages = site.pages | where: "layout", "page" | where_exp: "page", "page.permalink != '/notes/' and page.permalink != '/tags/' and page.permalink != '/thanks/'" %}
+  {% assign homepage = site.pages | where: "layout", "home" | first %}
+  
+  <!-- Homepage -->
+  <url>
+    <loc>{{ site.url }}{{ homepage.url | default: '/' }}</loc>
+    <lastmod>{% if homepage.lastModified %}{{ homepage.lastModified }}{% else %}{{ site.time | date: '%Y-%m-%d' }}{% endif %}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- About Page -->
+  {% assign about_page = pages | where: "permalink", "/about/" | first %}
+  {% if about_page %}
+  <url>
+    <loc>{{ site.url }}{{ about_page.permalink }}</loc>
+    <lastmod>{% if about_page.lastModified %}{{ about_page.lastModified }}{% else %}{{ site.time | date: '%Y-%m-%d' }}{% endif %}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  {% endif %}
+  
+  <!-- Projects/Case Studies Page -->
+  {% assign projects_page = pages | where: "permalink", "/projects/" | first %}
+  {% if projects_page %}
+  <url>
+    <loc>{{ site.url }}{{ projects_page.permalink }}</loc>
+    <lastmod>{% if projects_page.lastModified %}{{ projects_page.lastModified }}{% else %}{{ site.time | date: '%Y-%m-%d' }}{% endif %}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  {% endif %}
+  
+  <!-- Contact Page -->
+  {% assign contact_page = pages | where: "permalink", "/contact/" | first %}
+  {% if contact_page %}
+  <url>
+    <loc>{{ site.url }}{{ contact_page.permalink }}</loc>
+    <lastmod>{% if contact_page.lastModified %}{{ contact_page.lastModified }}{% else %}{{ site.time | date: '%Y-%m-%d' }}{% endif %}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  {% endif %}
+</urlset>
+

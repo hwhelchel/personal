@@ -73,5 +73,4 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sass-converter
-  - jekyll-sitemap
   - jekyll-postfiles
