@@ -19,7 +19,7 @@ Tell me about your business and what you're trying to achieve. I'll respond with
     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
   </p>
   
-  <div id="form-message" style="display: none; margin-bottom: 20px; padding: 12px; border-radius: 2px; font-size: 16px; font-family: Roboto, sans-serif;"></div>
+  <div id="form-message" style="display: none; margin-bottom: 20px; padding: 16px 20px; border-radius: 2px; font-size: 16px; font-family: Roboto, sans-serif; line-height: 1.6;"></div>
   
   <p style="margin-bottom: 20px;">
     <label for="name" style="display: block; margin-bottom: 5px; font-weight: 700; color: #0d122b;">Name *</label>
