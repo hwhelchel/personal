@@ -57,6 +57,7 @@ sass:
 
 include:
   - _redirects
+  - _headers
   - .htaccess
 
 exclude:

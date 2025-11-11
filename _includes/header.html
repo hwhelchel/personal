@@ -152,7 +152,12 @@
   <meta name="msapplication-TileColor" content="#da532c" />
   <meta name="theme-color" content="#2c2c2c" />
 
-  <link rel="stylesheet" href="/assets/css/style.css" />
+  <!-- Preconnect to Google Fonts for faster font loading -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+  <!-- Non-blocking CSS loading -->
+  <link rel="stylesheet" href="/assets/css/style.css" media="print" onload="this.media='all'" />
+  <noscript><link rel="stylesheet" href="/assets/css/style.css" /></noscript>
 
   <!-- Person Schema Markup for SEO -->
   <script type="application/ld+json">
