@@ -1,46 +1,32 @@
-# Klisé
+# harrywhelchel.com
 
-Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
-For demo <a href="https://klise.now.sh" target="_blank">klise.now.sh</a>
+Personal website for Harry Whelchel - Sales & Marketing Consultant.
+
+Built with Jekyll using the [Klisé theme](https://github.com/piharpi/jekyll-klise).
 
 ## Features
 
-- Light & Dark Mode support :waxing_crescent_moon:
-- Customizable (using `.scss`)
-- Responsive (desktop, tab and mobile)
-- Mobile First Design
+- Light & Dark Mode support
+- Responsive design (desktop, tablet, mobile)
 - SEO Optimized
 - RSS Feed
-- Syntax Highlighter ([rouge](https://github.com/rouge-ruby/rouge))
-- Next & Previous Post
-- Comment layout, enable in frontmatter if you wish
-- Google analytics
-- HTML Minify ([compressed HTML](https://github.com/penibelst/jekyll-compress-html))
-- W3C **Validated**
-- Lighthouse and PageSpeed **Passed**
+- Netlify Forms integration
+- Fast performance (Lighthouse and PageSpeed optimized)
 
-![Lighthouse](./lighthouse.png)
-
-## Installation
+## Local Development
 
 Run local server:
 
 ```bash
-git clone https://github.com/piharpi/jekyll-klise.git
-cd jekyll-klise
 bundle install
 bundle exec jekyll serve
 ```
 
-Navigate to `localhost:4000`. You're Welcome, Fork and be Stargaze.
+Navigate to `localhost:4000`.
 
-**Don't Forget** to change site icon, go to `jekyll-klise/assets/favicons` and replace with your own.
+## Deployment
 
-## Contributing
-
-If you see any typos or formatting errors in a post, or any other issue that needs to be addressed, please do not hesitate to open a pull request and fix it!
-
-Yeaaa feel free to open a pull request.
+This site is deployed to Netlify. Push to the `master` branch to trigger a deployment.
 
 ## License
 
